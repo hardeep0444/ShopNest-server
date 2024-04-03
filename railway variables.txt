@@ -1,0 +1,5 @@
+DB_PORT=24751
+DB_NAME=railway
+DB_USERNAME=root
+DB_PASSWORD=oEYoGreVFDTnUIqfgeoQqXyAvMDxIimA
+DB_HOST=monorail.proxy.rlwy.net
